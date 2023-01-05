@@ -1,6 +1,6 @@
 # math156-sentiment-analysis
 
-Authors: [Grant Kinsley](https://github.com/grantKinsley), [Jaden Nguyen], Elliot Fouts, Pieter Van Tol
+Authors: [Grant Kinsley](https://github.com/grantKinsley), Jaden Nguyen, Elliot Fouts, Pieter Van Tol
 
 ## Introduction
 For our final project, our group decided to write a survey about different pre-processing methods
