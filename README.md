@@ -3,13 +3,12 @@
 Authors: [Grant Kinsley](https://github.com/grantKinsley), Jaden Nguyen, Elliot Fouts, Pieter Van Tol
 
 ## Introduction
-For our final project, our group decided to write a survey about different pre-processing methods
-and neural network architectures that can be applied in Sentiment Analysis. We have included the
-research done about the pre-processing methods, Word2Vec and GloVe, and the two network
+For our final project, our group survied pre-processing methods and neural network architectures for Sentiment Analysis. 
+We have included research about two pre-processing methods, Word2Vec and GloVe, and two network
 architectures, Convolutional Neural Networks (CNN) and Long Short Term Memory Neural Networks
-(LSTM). In addition to our survey of the topic, we followed different resources to build two different
-training models: CNN and LSTM. We are working with a binary classification dataset from IMDB, which
-is a labelled dataset including positive and negative text reviews of movies. We have included the
+(LSTM). In addition to our survey of the topic, we build two different models: CNN and LSTM. 
+We are working with a binary classification dataset from IMDB, which is a labelled dataset 
+including positive and negative text reviews of movies. We have included the
 simulation results and analysis of our neural network architectures.
 
 ## Word Embedding
