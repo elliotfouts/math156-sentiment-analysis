@@ -6,7 +6,7 @@ Authors: [Grant Kinsley](https://github.com/grantKinsley), Jaden Nguyen, Elliot 
 For our final project, our group survied pre-processing methods and neural network architectures for Sentiment Analysis. 
 We have included research about two pre-processing methods, Word2Vec and GloVe, and two network
 architectures, Convolutional Neural Networks (CNN) and Long Short Term Memory Neural Networks
-(LSTM). In addition to our survey of the topic, we build two different models: CNN and LSTM. 
+(LSTM). In addition to our survey of the topic, we used Tensorflow to compare the two models.
 We are working with a binary classification dataset from IMDB, which is a labelled dataset 
 including positive and negative text reviews of movies. We have included the
 simulation results and analysis of our neural network architectures.
